@@ -12,5 +12,3 @@ Deep Learning & Computer Vision Researcher 🤖
 ![](https://github-readme-stats.shion.dev/api?username=rogelio-9&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=rogelio-9&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rogelio-9&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
